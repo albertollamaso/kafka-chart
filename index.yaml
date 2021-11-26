@@ -5,7 +5,7 @@ entries:
       category: Infrastructure
     apiVersion: v2
     appVersion: 2.8.1
-    created: "2021-11-26T17:49:06.832964503Z"
+    created: "2021-11-26T18:01:37.675225905Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -17,7 +17,7 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 7.x.x
     description: Apache Kafka is a distributed streaming platform.
-    digest: 983c89f90d9d19f5fd877538cc5506736f2bd5f9fba4171027dd93ca4ece3783
+    digest: 571fe0bee6f4ce1906390f0271cb8dcc1b3440ddb97af9b479ee17b45d21adc0
     home: https://github.com/bitnami/charts/tree/master/bitnami/kafka
     icon: https://bitnami.com/assets/stacks/kafka/img/kafka-stack-220x234.png
     keywords:
@@ -36,4 +36,4 @@ entries:
     urls:
     - https://albertollamaso.github.io/kafka-chart/kafka-14.4.1.tgz
     version: 14.4.1
-generated: "2021-11-26T17:49:06.82054072Z"
+generated: "2021-11-26T18:01:37.665653492Z"
