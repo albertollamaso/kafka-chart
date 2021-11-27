@@ -32,7 +32,7 @@ jobs:
       - name: Run kubeval
         env:
           KUBERNETES_VERSION: ${{ matrix.k8s }}
-        run: chmod + x .github/kubeval.sh && .github/kubeval.sh
+        run: chmod +x .github/kubeval.sh && .github/kubeval.sh
 
   install-chart:
     name: install-chart
