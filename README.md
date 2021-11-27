@@ -10,6 +10,8 @@ Kafka Helm chart:
 charts/kafka
 ```
 
+charts url (github page): https://albertollamaso.github.io/kafka-chart/
+
 Then you can use this Helm with argo like this
 
 ```
