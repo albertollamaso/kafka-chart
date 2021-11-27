@@ -70,7 +70,7 @@ The command removes all the Kubernetes components associated with the chart and 
 | `diagnosticMode.args`    | Args to override all containers in the deployment                                       | `["infinity"]`  |
 
 
-### Kafka parameters
+# Kafka parameters
 
 | Name                                       | Description                                                                                                                                          | Value                               |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
